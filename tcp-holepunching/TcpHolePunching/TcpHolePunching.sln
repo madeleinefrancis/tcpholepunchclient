@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peer", "Peer\Peer.csproj", "{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Debug|x86.ActiveCfg = Debug|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Debug|x86.Build.0 = Debug|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Release|Any CPU.ActiveCfg = Release|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Release|x86.ActiveCfg = Release|x86
+		{505A5ACD-FACD-4B76-9D9D-C40F3EB33DDD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F668FC0E-A82B-43E3-BC0B-5B5E400AA585}
+	EndGlobalSection
+EndGlobal
